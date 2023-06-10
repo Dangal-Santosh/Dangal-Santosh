@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santosh Dangal</h1>
 <h3 align="center">🌱 Learning Never Stops 🚀</h3>
 
+<img align="right" alt="coding" width ="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
+", 
+
 - 🔭 I’m currently working on **Big Data Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dangal-Santosh](https://github.com/Dangal-Santosh)
