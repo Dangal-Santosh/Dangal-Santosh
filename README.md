@@ -36,10 +36,10 @@
 
 <br/>
 <table>
-<!--   <tr>
+  <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Dangal-Santosh&show_icons=true&theme=dark&locale=en" alt="sabin149" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dangal-Santosh&show_icons=true&theme=dark&locale=en&layout=compact" alt="sabin149" /></td>
-  </tr> -->
+  </tr>
 </table>
 
 <div align="center">
