@@ -9,6 +9,8 @@
 - ⚡ Fun fact **I think I Overthink**
 
 <h3 align="left">Data Engineer:</h3>
+
+<h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/sabin-dangal-24b3b41ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dangalsabin149@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
