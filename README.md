@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Big Data Projects**
 
-- 👨‍💻 All of my projects are available at https://dangal-santosh.github.io/Portfolio_Project/
+- 👨‍💻 All of my data analyst projects are available at https://dangal-santosh.github.io/AnalystPortfolioWebsite/
 
 - 💬 Ask me about **BigDataTools, MySQL, Oracle SQL, MongoDB**
 - ⚡ Fun fact **I think I Overthink**
